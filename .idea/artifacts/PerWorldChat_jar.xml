@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PerWorldChat:jar">
+    <output-path>$USER_HOME$/Documents/Desk/Spigot/plugins</output-path>
+    <root id="archive" name="PerWorldChat.jar">
+      <element id="module-output" name="PerWorldChat" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+name: "PerWorldChat"
+author: "ThEditor"
+version: "v1"
+description: "Per World Chat Plugin"
+main: me.theditor.perworldchat.Main
